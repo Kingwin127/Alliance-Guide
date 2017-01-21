@@ -65,3 +65,20 @@
 ###All officers
 - Officers should check on members every 3-5 days at least to see if they require assistance or would like extra help to speed up growth.
 - If a member is losing a war an officer must provide assistance to win the war and and preferrably attempt to get the other nation to sign a peace agreement with the nation under attack and end the war peacefully. There is an alliance budget for signing peace treaties currently of 500k-1000k of the treaty cost the officer can reimburse from the alliance.
+
+###1st Officer
+- The first officer reports directly to the founder and is the highest ranking member of the alliance.
+- The 1st officer is in charge of the alliance bank and any withdrawls above the limit by an officer must be approved by the 1st officer, they are also in charge of setting appropriate tax levels, what policies can be paid and the max withdraw limit for members and altering it accordingly to income to ensure fair withdrawls.
+- The 1st officer is the primary diplomatic liaison and is charge of all relations with any alliance if any issues arise with another alliance he is the point of call, all officers must report issues and diplomatic incidents to the 1st officer **ASAP** so it can be dealt with.
+- The 1st is in charge of the alliance economy and monitoring total output of all nations and ensuring there is a constant growth from all members of the alliance, any difficulties must be reported to the 1st officer so they can allocate the neccessary resources to boost growth and allocate officers to assist accordingly, failure to do this would waste valuable alliance resources and time.
+- The 1st officer is in charge of all internal and external affairs in regards to relations, monitoring members and all administrative and non-military roles.
+- During a war the 1st officer must ensure all participants are financially secure and can maintain their armies and assist buying troops if needed and provide them with large scale free-aid.
+- During a war the 1st officer must ensure that any money or resources the 2nd officer requires is available at all times.
+
+###2nd Officer
+- The 2nd officer is the official commander in chief of the alliance armed forces and is in charge in conjunction with the 1st officer ensuring that all members have and maintain an adequate army within guidelines.
+- In the event of a war the 2nd officer has the authority to order alliance members to assist each other with soldiers and commmand what nations to attack for free as the alliance is at war he can declare all aid is free and no war profiteering ensuring everyone gets whatever they need. However the 2nd officer must report the total allocation of troops to the 1st officer as the 1st officer must financially compensate at least once every 24 hours the nations that are fighting in the war to ensure they can keep up their attacks and defenses.
+- The official war budget for the 2nd officer stands at 5000-8000k every 12 hours, the amount may change depending on war level taxation set by the 1st officer.
+- During war and emergencies the 2nd officer can dictate to the 1st officer what money and resources he requires for the war currently and the 1st officer must comply and gather as much as possible of the requested amount and continue to do so for the conflict.
+
+###3rd Officer
