@@ -56,7 +56,7 @@
 - Nuclear reactors take a while to produce and therefore unadvised to persue unless you have the uranium and resources to safely work on it, if you are working towards nuclear reactors and nukes you must contact an officer ASAP and inform them so they are aware and can provide aid or protection in case you become a target.
 
 
-#Officer guidelines, roles and regulations.
+#Officer guidelines, roles and regulations/perks
 
 ##Guidelines
 - All officers should be of a friendly nature and not discriminate against members of the alliance and treat all members fairly as well as ensuring positive external relations to ensure the safety of the alliance members and avoid conflict with other alliances.
@@ -75,6 +75,7 @@
 - During a war the 1st officer must ensure all participants are financially secure and can maintain their armies and assist buying troops if needed and provide them with large scale free-aid.
 - During a war the 1st officer must ensure that any money or resources the 2nd officer requires is available at all times.
 - The 1st officer will also be a mentor but at any time only 1 nation who he will directly help and monitor.
+- **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###2nd Officer
 - The 2nd officer is the official commander in chief of the alliance armed forces and is in charge in conjunction with the 1st officer ensuring that all members have and maintain an adequate army within guidelines.
@@ -82,6 +83,7 @@
 - The official war budget for the 2nd officer stands at 5000-8000k every 12 hours, the amount may change depending on war level taxation set by the 1st officer.
 - During war and emergencies the 2nd officer can dictate to the 1st officer what money and resources he requires for the war currently and the 1st officer must comply and gather as much as possible of the requested amount and continue to do so for the conflict.
 - The 2nd officer acts primarily in non-war time as a personal mentor to nations that will be allocated to him by the 1st officer, the nation typically will be the weakest of the alliance or least performing and the most in need for help, the 2nd officer can have at any one time up to 2 nations.
+- **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###3rd Officer
 - The 3rd officer is officially in charge of recruitment into the alliance, they are in charge of ensuring the members are not a risk to the alliance, trustworthy, not an enemy of another alliance or any of our allies or a major threat.
@@ -89,3 +91,21 @@
 - As per all officers the 3rd officer is mentor and at any one time can have 2 nations under him.
 - The 3rd officer is a direct assistant to the 1st officer in the alliance economy assisting by notifying the 1st officer of nations that are struggling and require the most help that may have gone unnoticed in the last inspection of alliance nations.
 - The 3rd officer is an assistant to the 2nd officer in the alliance military assisting by identifying potential threats to the alliance and assisting with war time strategies and notifying the 2nd officer of potential threats or issues discovered by the 1st officer during diplomatic talks or treaty signings.
+
+##Regulations/Perks
+
+###Regulations
+- The maximum withdraw for an officer is 1000k every 12 hours any extra must be request from the 1st officer and approved by the 1st officer, failure to comply with this will result in removal of officer role and an investigation in why the break of regulations.
+- In most instances the 1st officer is the highest level, however in military matters or war time the 2nd officer out ranks the 1st officer an can order alliance forces **However control over the bank and the alliances economy still remains with the 1st officer along with being the alliance diplomatic liaison** But the 2nd officer can make an order for the 1st officer to obtain more resources and request help from allies. (For more information contact the 1st officer)
+- **It is forbidden for a member to insult an officer or for officers to fight in the presence of members, if officers have an issue with each other please contact the 1st officer as he is in charge of internal affairs and has the last say**
+- Officers are forbidden from starting wars with other alliances and therefore inflicting risk on the members of the alliance of a large scale conflict and must strive to ensure the safety of the alliance and members.
+- If an officer goes on vacation mode and needs time off they must contact the 1st officer so that their duties can handled by someone else temporaily until their return.
+
+###Perks
+- An officer is entitled to withdraw 1000k every 12 hours which is twice the withdraw limit for a normal member.
+- An officer is entitled to request a loan from the alliance bank or a grant, requests must be submitted to the 1st officer who will decide whether to approve.
+- An officer is entitled to sit on the alliance council and be an equal member in all alliance discussions.
+- An officer is entitled to a war grant of 1500k a day during large scale conflicts to help fund their countries defense.
+- An officer is entitled to a rebuilding grant after a war is lost of 2500k to help rebuild their country.
+- Every 3 days the 1st officer will conduct an analysis of the performance of the 2nd and 3rd officer and their mentees and the best performing will receive a reward from the 1st officer.
+- An officer is entitled a budget of 500k every turn for each mentee they have.
