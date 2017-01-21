@@ -74,11 +74,18 @@
 - The 1st officer is in charge of all internal and external affairs in regards to relations, monitoring members and all administrative and non-military roles.
 - During a war the 1st officer must ensure all participants are financially secure and can maintain their armies and assist buying troops if needed and provide them with large scale free-aid.
 - During a war the 1st officer must ensure that any money or resources the 2nd officer requires is available at all times.
+- The 1st officer will also be a mentor but at any time only 1 nation who he will directly help and monitor.
 
 ###2nd Officer
 - The 2nd officer is the official commander in chief of the alliance armed forces and is in charge in conjunction with the 1st officer ensuring that all members have and maintain an adequate army within guidelines.
 - In the event of a war the 2nd officer has the authority to order alliance members to assist each other with soldiers and commmand what nations to attack for free as the alliance is at war he can declare all aid is free and no war profiteering ensuring everyone gets whatever they need. However the 2nd officer must report the total allocation of troops to the 1st officer as the 1st officer must financially compensate at least once every 24 hours the nations that are fighting in the war to ensure they can keep up their attacks and defenses.
 - The official war budget for the 2nd officer stands at 5000-8000k every 12 hours, the amount may change depending on war level taxation set by the 1st officer.
 - During war and emergencies the 2nd officer can dictate to the 1st officer what money and resources he requires for the war currently and the 1st officer must comply and gather as much as possible of the requested amount and continue to do so for the conflict.
+- The 2nd officer acts primarily in non-war time as a personal mentor to nations that will be allocated to him by the 1st officer, the nation typically will be the weakest of the alliance or least performing and the most in need for help, the 2nd officer can have at any one time up to 2 nations.
 
 ###3rd Officer
+- The 3rd officer is officially in charge of recruitment into the alliance, they are in charge of ensuring the members are not a risk to the alliance, trustworthy, not an enemy of another alliance or any of our allies or a major threat.
+- The 3rd officer has a budget of 500-1000k starting grant they can provide to new nations of the alliance, the limit stands at 2-3 nations every turn so the flow of recruits can be easily monitored.
+- As per all officers the 3rd officer is mentor and at any one time can have 2 nations under him.
+- The 3rd officer is a direct assistant to the 1st officer in the alliance economy assisting by notifying the 1st officer of nations that are struggling and require the most help that may have gone unnoticed in the last inspection of alliance nations.
+- The 3rd officer is an assistant to the 2nd officer in the alliance military assisting by identifying potential threats to the alliance and assisting with war time strategies and notifying the 2nd officer of potential threats or issues discovered by the 1st officer during diplomatic talks or treaty signings.
