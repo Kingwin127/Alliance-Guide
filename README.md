@@ -2,6 +2,7 @@
 ##This is a general outline of what is expected of nations in the alliance. This guide will advise you on what you should be doing and outline what officers can and can't do.
 
 ###Pacts
+- Protectorate state of the [Soul Republic]
 - NAP with [MSR][IronCrescent]
 
 ###Economy
