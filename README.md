@@ -117,12 +117,25 @@
 ##Security Clearance Levels
 - **Priority Ultra, Alpha Omega security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to the most classified information and details. Can override any decision with role, however can under emergencies and special circumstances, authorised to be on the alliance council.
 - **Alpha secruity clearance**: Second highest level of security clearance, access to classified information, authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role. Under emergencies is authorised to make emergncy decisions if believed to benefit the alliance or help it, authorised to be on the alliance council.
-- **Beta security clearance**: Third highest level of security clearance, access to classified information authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role, authorised to be on the alliance council.
+- **Beta security clearance**: Third highest level of security clearance, access to **low level** classified information, authorised to alliance council reports and information within clearance.
 
 
 ##Member levels
 ###Level 8,9,10
-- Highest levels of member clearance, nations must meet the requirements of 4,5,6,7.
-- Levels can only be awarded by agreement of the alliance council or by the 1st officer.
+- First tier of member levels, nations must meet the requirements of 4,5,6,7
+- Levels can only be awarded by agreement of the alliance council or by the 1st officer
 - Only awarded to the most trusted members of the alliance
 - **Beta security clearance**
+
+###Level 4,5,6,7
+- Second tier of member levels
+- GDP must exceed 1,500 GDP
+- Must be regularly active
+- Must have contributed to the alliance in some way shape or form
+- Must have been in the alliance for at least 10 days
+- Levels awarded upon meeting criteria and the level based on how much contributed or demand for the level
+
+###Level 1,2,3
+- Third tier of member levels
+- General levels, no prequisites
+- Level specifically determines how active the nation is, to reach level 3 and prepare to move to level 4 the nation must be regularly active
