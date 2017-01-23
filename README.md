@@ -80,7 +80,7 @@
 - **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###2nd Officer
-- **Alpha class 2 secruity clearance**
+- **Alpha secruity clearance**
 - The 2nd officer is the official commander in chief of the alliance armed forces and is in charge in conjunction with the 1st officer ensuring that all members have and maintain an adequate army within guidelines.
 - In the event of a war the 2nd officer has the authority to order alliance members to assist each other with soldiers and commmand what nations to attack for free as the alliance is at war he can declare all aid is free and no war profiteering ensuring everyone gets whatever they need. However the 2nd officer must report the total allocation of troops to the 1st officer as the 1st officer must financially compensate at least once every 24 hours the nations that are fighting in the war to ensure they can keep up their attacks and defenses.
 - The official war budget for the 2nd officer stands at 5000-8000k every 12 hours, the amount may change depending on war level taxation set by the 1st officer.
@@ -89,7 +89,7 @@
 - **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###3rd Officer
-- **Alpha class 3 security clearance**
+- **Alpha security clearance**
 - The 3rd officer is officially in charge of recruitment into the alliance, they are in charge of ensuring the members are not a risk to the alliance, trustworthy, not an enemy of another alliance or any of our allies or a major threat.
 - The 3rd officer has a budget of 500-1000k starting grant they can provide to new nations of the alliance, the limit stands at 2-3 nations every turn so the flow of recruits can be easily monitored.
 - As per all officers the 3rd officer is mentor and at any one time can have 2 nations under him.
@@ -115,4 +115,6 @@
 - An officer is entitled a budget of 500k every turn for each mentee they have.
 
 ##Security Clearance Levels
-- **Priority Ultra, Alpha class 1 security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to clasified information and details. Can override any decision with role, however can under emergencies and special circumstances.
+- **Priority Ultra, Alpha class 1 security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to the most classified information and details. Can override any decision with role, however can under emergencies and special circumstances, authorised to be on the alliance council.
+- **Alpha secruity clearance**: Second highest level of security clearance, access to classified information, authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role. Under emergencies is authorised to make emergncy decisions if believed to benefit the alliance or help it, authorised to be on the alliance council.
+- **Beta security clearance**: Third highest level of security clearance, access to classified information authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role, authorised to be on the alliance council.
