@@ -68,6 +68,7 @@
 - If a member is losing a war an officer must provide assistance to win the war and and preferrably attempt to get the other nation to sign a peace agreement with the nation under attack and end the war peacefully. There is an alliance budget for signing peace treaties currently of 500k-1000k of the treaty cost the officer can reimburse from the alliance.
 
 ###1st Officer
+- **Priority Ultra, Alpha class 1 security clearance**
 - The first officer reports directly to the founder and is the highest ranking member of the alliance.
 - The 1st officer is in charge of the alliance bank and any withdrawls above the limit by an officer must be approved by the 1st officer, they are also in charge of setting appropriate tax levels, what policies can be paid and the max withdraw limit for members and altering it accordingly to income to ensure fair withdrawls.
 - The 1st officer is the primary diplomatic liaison and is charge of all relations with any alliance if any issues arise with another alliance he is the point of call, all officers must report issues and diplomatic incidents to the 1st officer **ASAP** so it can be dealt with.
@@ -79,6 +80,7 @@
 - **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###2nd Officer
+- **Alpha class 2 secruity clearance**
 - The 2nd officer is the official commander in chief of the alliance armed forces and is in charge in conjunction with the 1st officer ensuring that all members have and maintain an adequate army within guidelines.
 - In the event of a war the 2nd officer has the authority to order alliance members to assist each other with soldiers and commmand what nations to attack for free as the alliance is at war he can declare all aid is free and no war profiteering ensuring everyone gets whatever they need. However the 2nd officer must report the total allocation of troops to the 1st officer as the 1st officer must financially compensate at least once every 24 hours the nations that are fighting in the war to ensure they can keep up their attacks and defenses.
 - The official war budget for the 2nd officer stands at 5000-8000k every 12 hours, the amount may change depending on war level taxation set by the 1st officer.
@@ -87,6 +89,7 @@
 - **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###3rd Officer
+- **Alpha class 3 security clearance**
 - The 3rd officer is officially in charge of recruitment into the alliance, they are in charge of ensuring the members are not a risk to the alliance, trustworthy, not an enemy of another alliance or any of our allies or a major threat.
 - The 3rd officer has a budget of 500-1000k starting grant they can provide to new nations of the alliance, the limit stands at 2-3 nations every turn so the flow of recruits can be easily monitored.
 - As per all officers the 3rd officer is mentor and at any one time can have 2 nations under him.
@@ -110,3 +113,6 @@
 - An officer is entitled to a rebuilding grant after a war is lost of 2500k to help rebuild their country.
 - Every 3 days the 1st officer will conduct an analysis of the performance of the 2nd and 3rd officer and their mentees and the best performing will receive a reward from the 1st officer.
 - An officer is entitled a budget of 500k every turn for each mentee they have.
+
+##Security Clearance Levels
+- **Priority Ultra, Alpha class 1 security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to clasified information and details. Can override any decision with role, however can under emergencies and special circumstances.
