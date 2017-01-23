@@ -68,7 +68,7 @@
 - If a member is losing a war an officer must provide assistance to win the war and and preferrably attempt to get the other nation to sign a peace agreement with the nation under attack and end the war peacefully. There is an alliance budget for signing peace treaties currently of 500k-1000k of the treaty cost the officer can reimburse from the alliance.
 
 ###1st Officer
-- **Priority Ultra, Alpha class 1 security clearance**
+- **Priority Ultra, Alpha Omega security clearance**
 - The first officer reports directly to the founder and is the highest ranking member of the alliance.
 - The 1st officer is in charge of the alliance bank and any withdrawls above the limit by an officer must be approved by the 1st officer, they are also in charge of setting appropriate tax levels, what policies can be paid and the max withdraw limit for members and altering it accordingly to income to ensure fair withdrawls.
 - The 1st officer is the primary diplomatic liaison and is charge of all relations with any alliance if any issues arise with another alliance he is the point of call, all officers must report issues and diplomatic incidents to the 1st officer **ASAP** so it can be dealt with.
@@ -115,6 +115,14 @@
 - An officer is entitled a budget of 500k every turn for each mentee they have.
 
 ##Security Clearance Levels
-- **Priority Ultra, Alpha class 1 security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to the most classified information and details. Can override any decision with role, however can under emergencies and special circumstances, authorised to be on the alliance council.
+- **Priority Ultra, Alpha Omega security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to the most classified information and details. Can override any decision with role, however can under emergencies and special circumstances, authorised to be on the alliance council.
 - **Alpha secruity clearance**: Second highest level of security clearance, access to classified information, authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role. Under emergencies is authorised to make emergncy decisions if believed to benefit the alliance or help it, authorised to be on the alliance council.
 - **Beta security clearance**: Third highest level of security clearance, access to classified information authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role, authorised to be on the alliance council.
+
+
+##Member levels
+###Level 8,9,10
+- Highest levels of member clearance, nations must meet the requirements of 4,5,6,7.
+- Levels can only be awarded by agreement of the alliance council or by the 1st officer.
+- Only awarded to the most trusted members of the alliance
+- **Beta security clearance**
