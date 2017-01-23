@@ -104,6 +104,7 @@
 - **It is forbidden for a member to insult an officer or for officers to fight in the presence of members, if officers have an issue with each other please contact the 1st officer as he is in charge of internal affairs and has the last say**
 - Officers are forbidden from starting wars with other alliances and therefore inflicting risk on the members of the alliance of a large scale conflict and must strive to ensure the safety of the alliance and members.
 - If an officer goes on vacation mode and needs time off they must contact the 1st officer so that their duties can handled by someone else temporaily until their return.
+- **However removal of any officer is strictly forbidden from being proposed as a petition** 
 
 ###Perks
 - An officer is entitled to withdraw 1000k every 12 hours which is twice the withdraw limit for a normal member.
@@ -125,6 +126,7 @@
 - Final member level, nations must meet the requirements of level 2
 - Levels can only be awarded by agreement of the alliance council or by the 1st officer
 - Only awarded to the most trusted members of the alliance
+- Entitled to propose a petition to the alliance and vote on it to change a decision or make a decision happen. 
 - **Beta security clearance**
 
 ###Level 2
@@ -133,8 +135,16 @@
 - Must be regularly active
 - Must have contributed to the alliance in some way shape or form
 - Must have been in the alliance for at least 10 days
+- Entitled to propose a petition to the alliance and vote on it to change a decision or make a decision happen. 
 - Levels awarded upon meeting criteria
 
 ###Level 1
 - First member level
+- Entitled to vote on a petition.
 - General levels, no prequisites
+
+
+##Punishments
+- If any member violates the alliance rules and regulations the member the member will instantyl have all current aid and assistance halted and it becoming forbidden to provide any extra cash or resources to that member whilst impending investigation.
+- If the member cannot prove themselves innocent or prove their actions were just and right the member will be removed from the alliance and may not return for at least 3 days depending on the level of their actions the maximum would result in permanent banishment.
+- If an alliance member violates any pacts they will recieve no protection from the alliance and the threat of permanent removal from the alliance to ensure the safety of it's members depending on the response from the diplomatic representatives from the other alliances.
