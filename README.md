@@ -80,7 +80,7 @@
 - **In military matters or matters regarding threats to the alliance the 1st officer is only an adviser on the council.**
 
 ###2nd Officer
-- **Alpha secruity clearance**
+- **Alpha Omega secruity clearance**
 - The 2nd officer is the official commander in chief of the alliance armed forces and is in charge in conjunction with the 1st officer ensuring that all members have and maintain an adequate army within guidelines.
 - In the event of a war the 2nd officer has the authority to order alliance members to assist each other with soldiers and commmand what nations to attack for free as the alliance is at war he can declare all aid is free and no war profiteering ensuring everyone gets whatever they need. However the 2nd officer must report the total allocation of troops to the 1st officer as the 1st officer must financially compensate at least once every 24 hours the nations that are fighting in the war to ensure they can keep up their attacks and defenses.
 - The official war budget for the 2nd officer stands at 5000-8000k every 12 hours, the amount may change depending on war level taxation set by the 1st officer.
@@ -118,6 +118,7 @@
 ##Security Clearance Levels
 - **Priority Ultra, Alpha Omega security clearance**: Highest level of security clearance, access to all alliance actions, can make a decision at any time and the decision becomes law and must be abided by and must be enforced. Access to the most classified information and details. Can override any decision with role, however can under emergencies and special circumstances, authorised to be on the alliance council.
 - **Alpha secruity clearance**: Second highest level of security clearance, access to classified information, authorised to make alliance decisions **if** authorisation is given before hand **or** related to their job and role. Under emergencies is authorised to make emergncy decisions if believed to benefit the alliance or help it, authorised to be on the alliance council.
+- **Omega security clearance**: Addition to an alpha level member granting them access to secret intel reports, if an individual has both alpha and omega this makes them the second in command behind **Priority Ultra**. Omega status normally represents a member with decision making authority and constitutional power.
 - **Beta security clearance**: Third highest level of security clearance, access to **low level** classified information, authorised to alliance council reports and information within clearance.
 
 
